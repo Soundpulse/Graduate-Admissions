@@ -1,6 +1,6 @@
 # Graduate_Admissions_Analysis
 
-First Commit :clap: :clap: :clap:
+First Commit :clap: :clap: :clap:  
 This is a simple MATLAB code for finding the chance that a graduate can be admitted using linear regression.
 
 ## Descriptions
